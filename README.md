@@ -6,8 +6,8 @@ Stack "b" is used to temporarily store some integers of stack a and bring them i
 
 Only these moves are allowed:  
 
-• sa : swap a - swap the first 2 elements at the top of stack a. Do nothing if there is only one or no elements).  
-• sb : swap b - swap the first 2 elements at the top of stack b. Do nothing if there is only one or no elements).  
+• sa : swap a - swap the first 2 elements at the top of stack a. (Do nothing if there is only one or no elements).  
+• sb : swap b - swap the first 2 elements at the top of stack b. (Do nothing if there is only one or no elements).  
 • ss : sa and sb at the same time.  
 • pa : push a - take the first element at the top of b and put it at the top of a. Do nothing if b is empty.  
 • pb : push b - take the first element at the top of a and put it at the top of b. Do nothing if a is empty.  
@@ -20,4 +20,4 @@ Only these moves are allowed:
 
 At the end, stack b must be empty empty and all integers must be in stack a, sorted in ascending order.  
 
-![push_swap]([https://github.com/cyberKev42/so_long/blob/main/so_long/so_long_gameplay.gif](https://github.com/cyberKev42/push_swap/blob/main/push_swap_visualized.gif)https://github.com/cyberKev42/push_swap/blob/main/push_swap_visualized.gif)
+![push_swap]([https://github.com/cyberKev42/push_swap/blob/main/push_swap_visualized.gif])
