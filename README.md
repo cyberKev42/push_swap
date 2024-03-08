@@ -20,4 +20,6 @@ Only these moves are allowed:
 
 At the end, stack b must be empty empty and all integers must be in stack a, sorted in ascending order.  
 
+I chose to implement a turk sort algorithm.
+
 ![push_swap](https://github.com/cyberKev42/push_swap/blob/main/push_swap_visualized.gif)
